@@ -1,0 +1,12 @@
+*.log
+*.jar
+*.war
+*.ear
+*.class
+.project
+.classpath
+.settings
+target
+.DS_Store
+logs
+*.db.target
