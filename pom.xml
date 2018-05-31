@@ -18,7 +18,7 @@
 		<version.lslin>0.0.1-SNAPSHOT</version.lslin>
 	</properties>
 <build>
-		<finalName>esd_car</finalName>
+		<finalName>teach</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
