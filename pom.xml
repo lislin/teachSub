@@ -7,9 +7,9 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<modules>
-		<module>connector</module>
-		<module>core</module>
-		<module>web</module>
+		<module>lslin-connector</module>
+		<module>lslin-core</module>
+		<module>lslin-web</module>
 	</modules>
 
 	<properties>
